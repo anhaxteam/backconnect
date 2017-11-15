@@ -11,6 +11,6 @@ Comandos:
 -p    =    Define a porta da máquina em que você vai se conectar
 
 
-Sintaxe preferencial:
+## Sintaxe preferencial:
 
 php anhax.php -h 127.0.0.1 -p 1234
